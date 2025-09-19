@@ -184,7 +184,7 @@ height: 100%;
 .preloader-mask {
   background-color: var(--base-100);
   mask: linear-gradient(var(--base-300), var(--base-300)),
-        url("/mask.svg") center/50% no-repeat;
+        url("../mask.svg") center/50% no-repeat;
   mask-composite: subtract;
   will-change: transform;
   z-index: 2;
@@ -265,7 +265,7 @@ height: 100%;
 
 .preloader-mask {
   mask: linear-gradient(var(--base-300), var(--base-300)),
-        url("/mask.svg") center/90% no-repeat;
+        url("../mask.svg") center/90% no-repeat;
   mask-composite: subtract;
 }
 
@@ -1046,3 +1046,4 @@ button, select {
     transform: scale(1);
   }
 }
+
