@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap");
+
 
 :root {
   --base-100: #181717;
@@ -1046,4 +1046,5 @@ button, select {
     transform: scale(1);
   }
 }
+
 
